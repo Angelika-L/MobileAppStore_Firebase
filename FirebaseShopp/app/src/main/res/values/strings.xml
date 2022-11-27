@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseShopp</string>
+    
+    <array name="Shopp">
+        <item>Name</item>
+        <item>Price</item>
+        <item>Quantity</item>
+        <item>IfSale</item>
+    </array>
+</resources>
